@@ -1,5 +1,5 @@
 export const homeDetails = {
-  name: 'Juan Dela Cruz',
+  name: 'Arvilyza Dessa Fernandez Rabago',
   position: 'Junior Full Stack Developer',
   country: 'Philippines',
 };
