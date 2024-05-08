@@ -1,7 +1,7 @@
 export const aboutMeDetails = {
   position: 'Junior Full Stack Developer',
   description:
-    "Hello there! I'm a dedicated developer deeply passionate about creating captivating digital experiences. My skill set spans across HTML, CSS, JavaScript, React, and Node.js. Through collaborative teamwork, I've honed my abilities and gained practical experience, allowing me to seamlessly integrate my expertise into a wide array of projects. Let's craft something extraordinary together!",
+    "Hi there! I'm an enthusiastic web developer with a background in Human Resources. Eager to blend my past experiences with my newfound passion for coding, I've delved into HTML, CSS, JavaScript, React, and Node.js. My journey as a career shifter has equipped me with adaptability and a fresh perspective, ready to create captivating digital experiences. Let's collaborate and bring something extraordinary to life!Hello there! I'm a dedicated developer deeply passionate about creating captivating digital experiences. My skill set spans across HTML, CSS, JavaScript, React, and Node.js. Through collaborative teamwork, I've honed my abilities and gained practical experience, allowing me to seamlessly integrate my expertise into a wide array of projects. Let's craft something extraordinary together!",
 };
 
 export const aboutList1 = [
